@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LSM303AGR
+D eCompass module
+F https://www.st.com/resource/en/datasheet/lsm303agr.pdf
+$ENDCMP
+#
+#End Doc Library

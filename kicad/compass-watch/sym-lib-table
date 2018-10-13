@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name compass-watch)(type Legacy)(uri /home/hannes/Repository/compass-watch/kicad/compass-watch/compass-watch.lib)(options "")(descr ""))
+)
